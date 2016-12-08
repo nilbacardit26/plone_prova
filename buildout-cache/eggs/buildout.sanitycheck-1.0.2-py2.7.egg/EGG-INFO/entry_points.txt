@@ -1,3 +1,0 @@
-[zc.buildout.extension]
-ext = buildout.sanitycheck:main
-

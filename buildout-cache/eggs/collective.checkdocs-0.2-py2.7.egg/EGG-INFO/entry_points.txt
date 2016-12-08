@@ -1,4 +1,0 @@
-[distutils.commands]
-checkdocs = collective.checkdocs:checkdocs
-showdocs = collective.checkdocs:showdocs
-

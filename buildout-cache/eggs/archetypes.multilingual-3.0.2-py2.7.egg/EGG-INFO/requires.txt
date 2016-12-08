@@ -1,8 +1,0 @@
-setuptools
-Products.ATContentTypes
-plone.app.multilingual
-collective.monkeypatcher
-
-[test]
-plone.app.testing
-plone.app.multilingual[test]

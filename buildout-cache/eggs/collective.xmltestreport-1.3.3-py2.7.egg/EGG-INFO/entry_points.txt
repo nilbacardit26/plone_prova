@@ -1,4 +1,0 @@
-
-      [zc.buildout]
-      default = collective.xmltestreport.recipe:TestRunner
-      
