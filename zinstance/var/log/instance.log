@@ -1,0 +1,3727 @@
+------
+2016-12-08T16:32:21 INFO ZServer HTTP server started at Thu Dec  8 16:32:21 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-08T16:32:23 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-08T16:32:23 INFO ZODB.blob (30140) Blob directory `/home/nil/plone_prova/zinstance/var/blobstorage` is unused and has no layout marker set. Selected `bushy` layout. 
+------
+2016-12-08T16:32:23 INFO ZODB.blob (30140) Blob temporary directory '/home/nil/plone_prova/zinstance/var/blobstorage/tmp' does not exist. Created new directory.
+------
+2016-12-08T16:32:30 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-08T16:32:32 INFO Zope Ready to handle requests
+------
+2016-12-08T16:34:02 INFO Products.CMFPlone CSRF protection disabled on initial site creation
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Importing profile profile-Products.CMFPlone:plone with dependency strategy upgrade.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying main profile profile-Products.CMFPlone:plone
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Profile upgrade versions purged.
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.properties Site properties imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.toolset Toolset imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Adapters purged.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Subscribers purged.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Utilities purged.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.skins Skins tool imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.actions Actions tool imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.memberdata MemberData tool imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.contenttypes Content type registry imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.mailhost Mailhost imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.propertiestool Properties tool imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.plone.app.viewletmanager Imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.types Types tool imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.types 'Discussion Item' type info imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.types 'TempFolder' type info imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.bundles Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.repositorytool Nothing to import.
+------
+2016-12-08T16:34:02 INFO GenericSetup.catalog Catalog imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.workflow Workflow tool imported.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Importing profile profile-Products.CMFPlone:dependencies with dependency strategy upgrade.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-Products.CMFFormController:CMFFormController
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.toolset Toolset imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.bundles Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.repositorytool Nothing to import.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-Products.MimetypesRegistry:MimetypesRegistry
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.toolset Toolset imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.skins Skins tool imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.bundles Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.repositorytool Nothing to import.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-Products.PortalTransforms:PortalTransforms
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.toolset Toolset imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.bundles Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.repositorytool Nothing to import.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-Products.CMFEditions:CMFEditions
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.toolset Toolset imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.skins Skins tool imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.bundles Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup. RepositoryTool settings imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.catalog Catalog imported.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-Products.PlonePAS:PlonePAS
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.replaceRootUserFolder Capturing user info for admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.replaceRootUserFolder Translating user admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.replaceRootUserFolder Replaced root acl_users with PluggableAuthService
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_setup)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/MailHost)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/caching_policy_manager)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/content_type_registry)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/error_log)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/plone_utils)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/document_actions)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/document_actions/rss)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/document_actions/print)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/document_actions/extedit)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/site_actions)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/site_actions/sitemap)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/site_actions/accessibility)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/site_actions/contact)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object/folderContents)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object/history)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object/local_roles)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object/contentrules)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object/syndication)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object_buttons)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object_buttons/cut)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object_buttons/copy)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object_buttons/paste)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object_buttons/delete)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/object_buttons/rename)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/portal_tabs)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/portal_tabs/index_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/user)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/user/preferences)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/user/login)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/user/join)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/user/undo)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/user/plone_setup)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_actions/user/logout)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_catalog)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_catalog/htmltext_lexicon)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_catalog/plaintext_lexicon)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_catalog/plone_lexicon)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_controlpanel)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_css)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_diff)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_groupdata)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_groups)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_javascripts)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_memberdata)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_membership)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_migration)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_password_reset)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_properties)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_properties/navtree_properties)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_properties/site_properties)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_quickinstaller)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_registration)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/custom)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/PasswordReset)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/mimetypes_icons)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 100
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/plone_content)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/plone_ecmascript)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/plone_form_scripts)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/plone_images)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/plone_login)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 200
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/plone_prefs)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/plone_scripts)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/plone_templates)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/plone_wysiwyg)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/CMFEditions)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_skins/cmfeditions_views)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_types)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_types/Discussion Item)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_types/Plone Site)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_types/TempFolder)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 300
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_uidannotation)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_uidgenerator)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_uidhandler)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_url)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_view_customizations)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/states/visible)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/states/private)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/states/published)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/transitions/retract)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/transitions/hide)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/transitions/publish)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/transitions/show)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/variables/action)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/variables/time)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/variables/comments)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/variables/actor)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/folder_workflow/variables/review_history)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow/states/internal)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow/states/private)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow/transitions/hide)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow/transitions/show_internally)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow/variables/action)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow/variables/time)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow/variables/comments)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow/variables/actor)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_folder_workflow/variables/review_history)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/states/internally_published)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/states/internal)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/states/private)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/states/pending)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/states/external)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/transitions/hide)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/transitions/submit)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/transitions/show_internally)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/transitions/publish_internally)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/transitions/reject)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/transitions/retract)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/transitions/publish_externally)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/variables/action)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/variables/time)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/variables/comments)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/variables/actor)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/variables/review_history)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/intranet_workflow/worklists/reviewer_queue)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/one_state_workflow)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/one_state_workflow/states/published)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/one_state_workflow/variables/action)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/one_state_workflow/variables/time)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/one_state_workflow/variables/comments)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/one_state_workflow/variables/actor)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/one_state_workflow/variables/review_history)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/states/visible)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/states/private)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/states/pending)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/states/published)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/transitions/hide)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/transitions/show)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/transitions/submit)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/transitions/publish)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/transitions/reject)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/transitions/retract)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/variables/action)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/variables/time)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/variables/comments)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/variables/actor)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/variables/review_history)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/plone_workflow/worklists/reviewer_queue)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/states/private)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   -- Set savepoint at object # 400
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/states/pending)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/states/published)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/transitions/retract)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/transitions/submit)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/transitions/publish)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/transitions/reject)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/variables/action)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/variables/time)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/variables/comments)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/variables/actor)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/variables/review_history)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_workflow/simple_publication_workflow/worklists/reviewer_queue)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/translation_service)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_form_controller)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/mimetypes_registry)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/st_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/rest_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/word_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/safe_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/html_body)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/html_to_text)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/text_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/text-pre_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/pdf_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/pdf_to_text)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/image_to_png)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/image_to_gif)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/image_to_jpeg)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/image_to_pcx)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/image_to_ppm)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/image_to_tiff)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/image_to_bmp)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/python_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/rest_to_text)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/markdown_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/textile_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/web_intelligent_plain_text_to_html)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_transforms/html_to_web_intelligent_plain_text)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_archivist)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_historiesstorage)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_historyidhandler)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/OMInsideChildrensModifier)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/OMOutsideChildrensModifier)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/RetainUIDs)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/RetainATRefs)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/NotRetainATRefs)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/RetainWorkflowStateAndHistory)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/RetainPermissionsSettings)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/SaveFileDataInFileTypeByReference)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/SillyDemoRetrieveModifier)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/SkipParentPointers)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/SkipRegistryBasesPointers)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/AbortVersioningOfLargeFilesAndImages)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/SkipVersioningOfLargeFilesAndImages)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/SkipBlobs)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/CloneBlobs)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_modifier/Skip_z3c_blobfile)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_purgepolicy)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_referencefactories)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/portal_repository)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/Plone/acl_users)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Translated admin to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot   Assigned roles ['Owner'] to admin
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.upgradeLocalRoleAssignmentsFromRoot Local Roles map changed for (/acl_users)
+
+------
+2016-12-08T16:34:02 INFO PluggableAuthService.upgrade.replace_acl_users Root acl_users has been replaced, and local role assignments updated.
+
+------
+2016-12-08T16:34:02 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.bundles Cannot find registry
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.app.z3cform:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-12-08T16:34:02 INFO GenericSetup.plone.app.registry Cannot find registry
+------
+2016-12-08T16:34:02 INFO GenericSetup.bundles Cannot find registry
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.app.registry:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.toolset Toolset imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.app.discussion:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.actions Actions tool imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-12-08T16:34:02 INFO GenericSetup.types Types tool imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.types 'Discussion Item' type info imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.catalog Catalog imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.workflow Workflow tool imported.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.app.intid:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.app.relationfield:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.app.linkintegrity:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.resource:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.toolset Toolset imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Adapters registered.
+------
+2016-12-08T16:34:02 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.app.theming:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-12-08T16:34:02 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.app.users:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO plone.app.users.setuphandlers Imported schema
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.outputfilters:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:02 INFO Products.GenericSetup.tool Applying profile profile-plone.app.querystring:default
+------
+2016-12-08T16:34:02 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying profile profile-plone.portlet.collection:default
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.portlets Portlets imported
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying profile profile-plone.portlet.static:default
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.portlets Portlets imported
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying profile profile-plone.keyring:default
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.componentregistry Utilities registered.
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying profile profile-plone.protect:default
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying main profile profile-Products.CMFPlone:dependencies
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.portlets Portlets imported
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Importing profile profile-plone.app.contenttypes:plone-content with dependency strategy upgrade.
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying profile profile-plone.app.dexterity:default
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.actions Actions tool imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.registry:default. Profile stays at version (u'1', u'0a1').
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying profile profile-plone.formwidget.recurrence:default
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying profile profile-plone.app.event:default
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.actions Actions tool imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-12-08T16:34:03 INFO GenericSetup.types Types tool imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.types 'Folder' type info imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.types 'Collection' type info imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.resourceregistry Stylesheet registry imported.
+------
+2016-12-08T16:34:03 INFO plone.app.event.setuphandlers Old catalog DateIndex start deleted.
+------
+2016-12-08T16:34:03 INFO plone.app.event.setuphandlers Catalog DateRecurringIndex start created.
+------
+2016-12-08T16:34:03 INFO plone.app.event.setuphandlers Catalog metadata column start already exists.
+------
+2016-12-08T16:34:03 INFO plone.app.event.setuphandlers Old catalog DateIndex end deleted.
+------
+2016-12-08T16:34:03 INFO plone.app.event.setuphandlers Catalog DateRecurringIndex end created.
+------
+2016-12-08T16:34:03 INFO plone.app.event.setuphandlers Catalog metadata column end already exists.
+------
+2016-12-08T16:34:03 INFO plone.app.event.setuphandlers Catalog FieldIndex sync_uid created.
+------
+2016-12-08T16:34:03 INFO plone.app.event.setuphandlers Catalog metadata column sync_uid created.
+------
+2016-12-08T16:34:03 INFO GenericSetup.resourceregistry Javascript registry imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.portlets Portlets imported
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.querystring:default. Profile stays at version (u'13',).
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.intid:default. Profile stays at version (u'1',).
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.relationfield:default. Profile stays at version (u'1',).
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying profile profile-plone.app.versioningbehavior:default
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.discussion:default. Profile stays at version (u'102',).
+------
+2016-12-08T16:34:03 INFO Products.GenericSetup.tool Applying profile profile-plone.app.contenttypes:default
+------
+2016-12-08T16:34:03 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup. DiffTool settings imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup. DiffTool settings imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-12-08T16:34:03 INFO GenericSetup.types Types tool imported.
+------
+2016-12-08T16:34:03 INFO GenericSetup.types 'Plone Site' type info imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.types 'Collection' type info imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.types 'Document' type info imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.types 'Folder' type info imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.types 'Link' type info imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.types 'File' type info imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.types 'Image' type info imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.types 'News Item' type info imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.types 'Event' type info imported.
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool Applying main profile profile-plone.app.contenttypes:plone-content
+------
+2016-12-08T16:34:04 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.portlets Portlets imported
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool Importing profile profile-plonetheme.barceloneta:default with dependency strategy upgrade.
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.registry:default. Profile stays at version (u'1', u'0a1').
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.resource:default. Profile stays at version (u'1',).
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.theming:default. Profile stays at version (u'1001',).
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool Applying main profile profile-plonetheme.barceloneta:default
+------
+2016-12-08T16:34:04 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.skins Skins tool imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy local cache invalidated on thread 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy local cache invalidated on thread 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy local cache invalidated on thread 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy local cache invalidated on thread 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy local cache invalidated on thread 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy shared invalidation requires local cache reset on 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy local cache invalidated on thread 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy initializing local cache on thread 140144897599232 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-08T16:34:04 INFO GenericSetup.plone.app.theming.exportimport Theme barceloneta applied
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy invalidating cache across all threads and processes
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy local cache invalidated on thread 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy shared cache invalidation marker updated
+------
+2016-12-08T16:34:04 INFO GenericSetup.plone.app.theming.exportimport Theme enabled
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool Importing profile profile-plone.app.caching:default with dependency strategy upgrade.
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.registry:default. Profile stays at version (u'1', u'0a1').
+------
+2016-12-08T16:34:04 INFO Products.GenericSetup.tool Applying main profile profile-plone.app.caching:default
+------
+2016-12-08T16:34:04 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-08T16:34:04 INFO GenericSetup.controlpanel Control panel imported.
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy shared invalidation requires local cache reset on 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy local cache invalidated on thread 140144897599232
+------
+2016-12-08T16:34:04 INFO plone.app.theming.policy initializing local cache on thread 140144897599232 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-08T16:35:16 INFO plone.app.theming.policy local cache invalidated on thread 140144909920000
+------
+2016-12-08T16:35:16 INFO plone.app.theming.policy initializing local cache on thread 140144909920000 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-09T10:24:52 INFO ZServer HTTP server started at Fri Dec  9 10:24:52 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T10:24:53 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-09T10:24:53 WARNING ZODB.FileStorage Ignoring index for /home/nil/plone_prova/zinstance/var/filestorage/Data.fs
+------
+2016-12-09T10:24:55 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-09T10:24:56 INFO Zope Ready to handle requests
+------
+2016-12-09T10:25:04 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-09T10:25:04 INFO Z2 Shutting down
+------
+2016-12-09T10:25:42 INFO ZServer HTTP server started at Fri Dec  9 10:25:42 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T10:25:43 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-09T10:25:44 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-09T10:25:46 INFO Zope Ready to handle requests
+------
+2016-12-09T10:25:54 INFO plone.app.theming.policy local cache invalidated on thread 139754267428608
+------
+2016-12-09T10:25:54 INFO plone.app.theming.policy initializing local cache on thread 139754267428608 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-09T10:26:05 INFO plone.app.theming.policy local cache invalidated on thread 139754259035904
+------
+2016-12-09T10:26:05 INFO plone.app.theming.policy initializing local cache on thread 139754259035904 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-09T10:26:13 INFO plone.protect auto rotating keyring _system
+------
+2016-12-09T10:26:13 INFO plone.protect auto rotating keyring _forms
+------
+2016-12-09T10:26:13 INFO plone.protect auto rotating keyring _anon
+------
+2016-12-09T10:26:13 INFO plone.protect auto rotating keyring _system
+------
+2016-12-09T10:26:13 INFO plone.protect auto rotating keyring _forms
+------
+2016-12-09T10:26:13 INFO plone.protect auto rotating keyring _anon
+------
+2016-12-09T10:26:50 INFO SignalHandler Caught signal SIGTERM
+------
+2016-12-09T10:26:50 INFO Z2 Shutting down fast
+------
+2016-12-09T10:26:50 INFO ZServer closing HTTP to new connections
+------
+2016-12-09T10:27:00 INFO ZServer HTTP server started at Fri Dec  9 10:27:00 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T10:27:00 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-09T10:27:02 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-09T10:27:03 INFO Zope Ready to handle requests
+------
+2016-12-09T10:27:04 INFO plone.app.theming.policy local cache invalidated on thread 140496663496448
+------
+2016-12-09T10:27:04 INFO plone.app.theming.policy initializing local cache on thread 140496663496448 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-09T10:28:44 INFO SignalHandler Caught signal SIGTERM
+------
+2016-12-09T10:28:44 INFO Z2 Shutting down fast
+------
+2016-12-09T10:28:44 INFO ZServer closing HTTP to new connections
+------
+2016-12-09T11:43:28 INFO ZServer HTTP server started at Fri Dec  9 11:43:28 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:43:32 INFO ZServer HTTP server started at Fri Dec  9 11:43:32 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:43:38 INFO ZServer HTTP server started at Fri Dec  9 11:43:38 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:43:44 INFO ZServer HTTP server started at Fri Dec  9 11:43:44 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:44:09 INFO ZServer HTTP server started at Fri Dec  9 11:44:09 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:44:13 INFO ZServer HTTP server started at Fri Dec  9 11:44:13 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:44:19 INFO ZServer HTTP server started at Fri Dec  9 11:44:19 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:44:25 INFO ZServer HTTP server started at Fri Dec  9 11:44:25 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:44:33 INFO ZServer HTTP server started at Fri Dec  9 11:44:33 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:44:41 INFO ZServer HTTP server started at Fri Dec  9 11:44:41 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:44:50 INFO ZServer HTTP server started at Fri Dec  9 11:44:50 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:45:00 INFO ZServer HTTP server started at Fri Dec  9 11:45:00 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:45:12 INFO ZServer HTTP server started at Fri Dec  9 11:45:12 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:45:24 INFO ZServer HTTP server started at Fri Dec  9 11:45:24 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:46:11 INFO ZServer HTTP server started at Fri Dec  9 11:46:11 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:46:15 INFO ZServer HTTP server started at Fri Dec  9 11:46:15 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:46:21 INFO ZServer HTTP server started at Fri Dec  9 11:46:21 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:46:27 INFO ZServer HTTP server started at Fri Dec  9 11:46:27 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:46:35 INFO ZServer HTTP server started at Fri Dec  9 11:46:35 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:47:43 INFO ZServer HTTP server started at Fri Dec  9 11:47:43 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T11:47:46 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-09T11:47:47 INFO Zope Ready to handle requests
+------
+2016-12-09T11:50:12 INFO plone.app.theming.policy local cache invalidated on thread 140153841391360
+------
+2016-12-09T11:50:12 INFO plone.app.theming.policy initializing local cache on thread 140153841391360 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-09T11:54:02 INFO SignalHandler Caught signal SIGTERM
+------
+2016-12-09T11:54:02 INFO Z2 Shutting down fast
+------
+2016-12-09T11:54:02 INFO ZServer closing HTTP to new connections
+------
+2016-12-09T12:04:06 INFO ZServer HTTP server started at Fri Dec  9 12:04:06 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T12:08:24 INFO ZServer HTTP server started at Fri Dec  9 12:08:24 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T12:16:53 INFO ZServer HTTP server started at Fri Dec  9 12:16:53 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T12:16:54 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-09T14:08:42 INFO ZServer HTTP server started at Fri Dec  9 14:08:42 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T14:08:43 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-09T14:08:45 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-09T14:08:46 INFO Zope Ready to handle requests
+------
+2016-12-09T14:09:21 INFO plone.app.theming.policy local cache invalidated on thread 139758098183936
+------
+2016-12-09T14:09:21 INFO plone.app.theming.policy initializing local cache on thread 139758098183936 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-09T14:09:30 INFO plone.app.theming.policy local cache invalidated on thread 139758106576640
+------
+2016-12-09T14:09:30 INFO plone.app.theming.policy initializing local cache on thread 139758106576640 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-09T14:09:51 INFO CMFQuickInstallerTool Multiple extension profiles found for product proposta.artistica. Used profile: proposta.artistica:default
+------
+2016-12-09T14:09:51 INFO Products.GenericSetup.tool Importing profile profile-proposta.artistica:default with dependency strategy upgrade.
+------
+2016-12-09T14:09:51 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.z3cform:default. Profile stays at version (u'3',).
+------
+2016-12-09T14:09:51 INFO Products.GenericSetup.tool No upgrades available for profile profile-plone.app.dexterity:default. Profile stays at version (u'2004',).
+------
+2016-12-09T14:09:51 INFO Products.GenericSetup.tool Applying main profile profile-proposta.artistica:default
+------
+2016-12-09T14:09:51 INFO GenericSetup.rolemap Role / permission map imported.
+------
+2016-12-09T14:09:51 INFO GenericSetup.browserlayer Browser layers imported
+------
+2016-12-09T14:09:51 INFO GenericSetup.types Types tool imported.
+------
+2016-12-09T14:09:51 INFO GenericSetup.types 'PropostaArtistica' type info imported.
+------
+2016-12-09T17:14:04 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-09T17:14:04 INFO Z2 Shutting down
+------
+2016-12-09T17:14:09 INFO ZServer HTTP server started at Fri Dec  9 17:14:09 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-09T17:14:10 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-09T17:14:12 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-09T17:14:13 INFO Zope Ready to handle requests
+------
+2016-12-09T17:14:18 INFO plone.app.theming.policy local cache invalidated on thread 139882276148992
+------
+2016-12-09T17:14:18 INFO plone.app.theming.policy initializing local cache on thread 139882276148992 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T02:04:59 INFO SignalHandler Caught signal SIGHUP
+------
+2016-12-10T02:04:59 INFO Z2 Restarting
+------
+2016-12-10T02:04:59 INFO SignalHandler Caught signal SIGHUP
+------
+2016-12-10T02:04:59 INFO Z2 Restarting
+------
+2016-12-10T02:04:59 INFO ZServer closing HTTP to new connections
+------
+2016-12-10T12:15:54 INFO ZServer HTTP server started at Sat Dec 10 12:15:54 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T12:15:55 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T12:17:29 INFO ZServer HTTP server started at Sat Dec 10 12:17:29 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T12:17:30 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T12:17:32 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T12:17:33 INFO Zope Ready to handle requests
+------
+2016-12-10T12:17:43 INFO plone.app.theming.policy local cache invalidated on thread 140291885033216
+------
+2016-12-10T12:17:43 INFO plone.app.theming.policy initializing local cache on thread 140291885033216 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T12:17:50 INFO plone.protect auto rotating keyring _forms
+------
+2016-12-10T12:17:50 INFO plone.protect auto rotating keyring _anon
+------
+2016-12-10T12:17:50 INFO plone.protect auto rotating keyring _forms
+------
+2016-12-10T12:17:50 INFO plone.protect auto rotating keyring _anon
+------
+2016-12-10T12:17:51 INFO plone.app.theming.policy local cache invalidated on thread 140291876640512
+------
+2016-12-10T12:17:51 INFO plone.app.theming.policy initializing local cache on thread 140291876640512 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T12:22:29 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T12:22:29 INFO Z2 Shutting down
+------
+2016-12-10T12:22:32 INFO ZServer HTTP server started at Sat Dec 10 12:22:32 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T12:22:33 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T12:22:35 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T12:22:36 INFO Zope Ready to handle requests
+------
+2016-12-10T12:22:40 INFO plone.app.theming.policy local cache invalidated on thread 139756361516800
+------
+2016-12-10T12:22:40 INFO plone.app.theming.policy initializing local cache on thread 139756361516800 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T12:25:54 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T12:25:54 INFO Z2 Shutting down
+------
+2016-12-10T12:25:56 INFO ZServer HTTP server started at Sat Dec 10 12:25:56 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T12:25:57 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T12:25:59 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T12:26:00 INFO Zope Ready to handle requests
+------
+2016-12-10T12:52:31 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T12:52:31 INFO Z2 Shutting down
+------
+2016-12-10T12:52:33 INFO ZServer HTTP server started at Sat Dec 10 12:52:33 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T12:52:33 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T12:52:35 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T12:52:37 INFO Zope Ready to handle requests
+------
+2016-12-10T12:53:39 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T12:53:39 INFO Z2 Shutting down
+------
+2016-12-10T12:53:41 INFO ZServer HTTP server started at Sat Dec 10 12:53:41 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T12:53:42 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T12:53:44 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T12:53:45 INFO Zope Ready to handle requests
+------
+2016-12-10T12:53:49 INFO plone.app.theming.policy local cache invalidated on thread 140145277179648
+------
+2016-12-10T12:53:49 INFO plone.app.theming.policy initializing local cache on thread 140145277179648 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T12:55:09 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T12:55:09 INFO Z2 Shutting down
+------
+2016-12-10T12:55:10 INFO ZServer HTTP server started at Sat Dec 10 12:55:10 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T12:55:11 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T12:55:13 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T12:55:14 INFO Zope Ready to handle requests
+------
+2016-12-10T12:55:19 INFO plone.app.theming.policy local cache invalidated on thread 140172953696000
+------
+2016-12-10T12:55:19 INFO plone.app.theming.policy initializing local cache on thread 140172953696000 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T13:00:26 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T13:00:26 INFO Z2 Shutting down
+------
+2016-12-10T13:00:27 INFO ZServer HTTP server started at Sat Dec 10 13:00:27 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:00:28 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:00:57 INFO ZServer HTTP server started at Sat Dec 10 13:00:57 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:00:58 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:01:20 INFO ZServer HTTP server started at Sat Dec 10 13:01:20 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:01:21 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:08:43 INFO ZServer HTTP server started at Sat Dec 10 13:08:43 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:08:44 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:09:16 INFO ZServer HTTP server started at Sat Dec 10 13:09:16 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:09:17 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:09:44 INFO ZServer HTTP server started at Sat Dec 10 13:09:44 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:09:45 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:14:43 INFO ZServer HTTP server started at Sat Dec 10 13:14:43 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:14:44 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:16:13 INFO ZServer HTTP server started at Sat Dec 10 13:16:13 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:16:14 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:16:16 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T13:16:17 INFO Zope Ready to handle requests
+------
+2016-12-10T13:16:24 INFO plone.app.theming.policy local cache invalidated on thread 140051230820096
+------
+2016-12-10T13:16:24 INFO plone.app.theming.policy initializing local cache on thread 140051230820096 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T13:21:49 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T13:21:49 INFO Z2 Shutting down
+------
+2016-12-10T13:21:51 INFO ZServer HTTP server started at Sat Dec 10 13:21:51 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:21:51 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:21:53 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T13:21:55 INFO Zope Ready to handle requests
+------
+2016-12-10T13:22:00 INFO plone.app.theming.policy local cache invalidated on thread 139840022230784
+------
+2016-12-10T13:22:00 INFO plone.app.theming.policy initializing local cache on thread 139840022230784 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T13:36:12 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T13:36:12 INFO Z2 Shutting down
+------
+2016-12-10T13:36:15 INFO ZServer HTTP server started at Sat Dec 10 13:36:15 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:36:15 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:38:38 INFO ZServer HTTP server started at Sat Dec 10 13:38:38 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:38:39 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:39:28 INFO ZServer HTTP server started at Sat Dec 10 13:39:28 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:39:29 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:41:16 INFO ZServer HTTP server started at Sat Dec 10 13:41:16 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:41:16 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:41:51 INFO ZServer HTTP server started at Sat Dec 10 13:41:51 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:41:52 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:45:48 INFO ZServer HTTP server started at Sat Dec 10 13:45:48 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:45:49 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:46:19 INFO ZServer HTTP server started at Sat Dec 10 13:46:19 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:46:19 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:49:23 INFO ZServer HTTP server started at Sat Dec 10 13:49:23 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:49:24 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:50:05 INFO ZServer HTTP server started at Sat Dec 10 13:50:05 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:50:06 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T13:50:39 INFO ZServer HTTP server started at Sat Dec 10 13:50:39 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T13:50:40 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T14:03:00 INFO ZServer HTTP server started at Sat Dec 10 14:03:00 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T14:03:00 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T14:03:16 INFO ZServer HTTP server started at Sat Dec 10 14:03:16 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T14:03:17 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T14:03:19 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T14:03:20 INFO Zope Ready to handle requests
+------
+2016-12-10T14:03:28 INFO plone.app.theming.policy local cache invalidated on thread 140421615675136
+------
+2016-12-10T14:03:28 INFO plone.app.theming.policy initializing local cache on thread 140421615675136 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T14:04:00 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T14:04:00 INFO Z2 Shutting down
+------
+2016-12-10T14:04:01 INFO ZServer HTTP server started at Sat Dec 10 14:04:01 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T14:04:02 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T14:04:33 INFO ZServer HTTP server started at Sat Dec 10 14:04:33 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T14:04:34 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T14:04:36 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T14:04:37 INFO Zope Ready to handle requests
+------
+2016-12-10T14:04:41 INFO plone.app.theming.policy local cache invalidated on thread 140117340882688
+------
+2016-12-10T14:04:41 INFO plone.app.theming.policy initializing local cache on thread 140117340882688 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T14:05:28 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T14:05:28 INFO Z2 Shutting down
+------
+2016-12-10T14:05:31 INFO ZServer HTTP server started at Sat Dec 10 14:05:31 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T14:05:31 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T14:05:33 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T14:05:35 INFO Zope Ready to handle requests
+------
+2016-12-10T14:05:41 INFO plone.app.theming.policy local cache invalidated on thread 140234467997440
+------
+2016-12-10T14:05:41 INFO plone.app.theming.policy initializing local cache on thread 140234467997440 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T16:54:12 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T16:54:12 INFO Z2 Shutting down
+------
+2016-12-10T16:54:14 INFO ZServer HTTP server started at Sat Dec 10 16:54:14 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T16:54:15 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T16:54:32 INFO ZServer HTTP server started at Sat Dec 10 16:54:32 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T16:54:33 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T16:55:00 INFO ZServer HTTP server started at Sat Dec 10 16:55:00 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T16:55:01 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T16:55:03 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T16:55:04 INFO Zope Ready to handle requests
+------
+2016-12-10T16:55:16 INFO plone.app.theming.policy local cache invalidated on thread 140695214171904
+------
+2016-12-10T16:55:16 INFO plone.app.theming.policy initializing local cache on thread 140695214171904 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T16:56:56 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T16:56:56 INFO Z2 Shutting down
+------
+2016-12-10T16:56:58 INFO ZServer HTTP server started at Sat Dec 10 16:56:58 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T16:56:59 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T16:57:01 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T16:57:02 INFO Zope Ready to handle requests
+------
+2016-12-10T17:42:32 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T17:42:32 INFO Z2 Shutting down
+------
+2016-12-10T17:42:34 INFO ZServer HTTP server started at Sat Dec 10 17:42:34 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T17:42:34 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T17:42:36 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T17:42:38 INFO Zope Ready to handle requests
+------
+2016-12-10T17:42:48 INFO plone.app.theming.policy local cache invalidated on thread 139922207229696
+------
+2016-12-10T17:42:48 INFO plone.app.theming.policy initializing local cache on thread 139922207229696 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T17:44:09 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T17:44:09 INFO Z2 Shutting down
+------
+2016-12-10T17:44:11 INFO ZServer HTTP server started at Sat Dec 10 17:44:11 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T17:44:11 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T17:44:36 INFO ZServer HTTP server started at Sat Dec 10 17:44:36 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T17:44:37 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T17:44:39 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T17:44:40 INFO Zope Ready to handle requests
+------
+2016-12-10T17:45:12 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T17:45:12 INFO Z2 Shutting down
+------
+2016-12-10T17:45:14 INFO ZServer HTTP server started at Sat Dec 10 17:45:14 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T17:45:15 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T17:45:17 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T17:45:18 INFO Zope Ready to handle requests
+------
+2016-12-10T17:45:25 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T17:45:25 INFO Z2 Shutting down
+------
+2016-12-10T17:45:27 INFO ZServer HTTP server started at Sat Dec 10 17:45:27 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T17:45:28 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T17:45:30 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T17:45:31 INFO Zope Ready to handle requests
+------
+2016-12-10T17:45:39 INFO plone.app.theming.policy local cache invalidated on thread 140605796161280
+------
+2016-12-10T17:45:39 INFO plone.app.theming.policy initializing local cache on thread 140605796161280 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T18:04:38 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T18:04:38 INFO Z2 Shutting down
+------
+2016-12-10T18:04:40 INFO ZServer HTTP server started at Sat Dec 10 18:04:40 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:04:40 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:05:12 INFO ZServer HTTP server started at Sat Dec 10 18:05:12 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:05:13 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:05:15 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T18:05:16 INFO Zope Ready to handle requests
+------
+2016-12-10T18:07:02 INFO plone.app.theming.policy local cache invalidated on thread 139816557967104
+------
+2016-12-10T18:07:02 INFO plone.app.theming.policy initializing local cache on thread 139816557967104 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T18:08:34 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T18:08:34 INFO Z2 Shutting down
+------
+2016-12-10T18:08:36 INFO ZServer HTTP server started at Sat Dec 10 18:08:36 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:08:37 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:08:57 INFO ZServer HTTP server started at Sat Dec 10 18:08:57 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:08:57 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:08:59 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T18:09:01 INFO Zope Ready to handle requests
+------
+2016-12-10T18:09:02 ERROR Zope.SiteErrorLog 1481389742.420.368816673696 http://localhost:8000/Plone/segona-proposta-1/@@edit/@@z3cform_validate_field
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module plone.app.z3cform.inline_validation, line 27, in __call__
+  Module plone.dexterity.browser.edit, line 58, in update
+  Module plone.z3cform.fieldsets.extensible, line 59, in update
+  Module plone.z3cform.patch, line 30, in GroupForm_update
+  Module z3c.form.group, line 132, in update
+  Module z3c.form.form, line 136, in updateWidgets
+  Module z3c.form.field, line 254, in update
+TypeError: __init__() takes exactly 2 arguments (3 given)
+------
+2016-12-10T18:09:03 ERROR Zope.SiteErrorLog 1481389743.660.12528237265 http://localhost:8000/Plone/segona-proposta-1/@@edit
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module plone.z3cform.layout, line 66, in __call__
+  Module plone.z3cform.layout, line 50, in update
+  Module plone.dexterity.browser.edit, line 58, in update
+  Module plone.z3cform.fieldsets.extensible, line 59, in update
+  Module plone.z3cform.patch, line 30, in GroupForm_update
+  Module z3c.form.group, line 132, in update
+  Module z3c.form.form, line 136, in updateWidgets
+  Module z3c.form.field, line 254, in update
+TypeError: __init__() takes exactly 2 arguments (3 given)
+------
+2016-12-10T18:09:03 INFO plone.app.theming.policy local cache invalidated on thread 140347842443008
+------
+2016-12-10T18:09:03 INFO plone.app.theming.policy initializing local cache on thread 140347842443008 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T18:09:32 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T18:09:32 INFO Z2 Shutting down
+------
+2016-12-10T18:09:33 INFO ZServer HTTP server started at Sat Dec 10 18:09:33 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:09:34 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:13:47 INFO ZServer HTTP server started at Sat Dec 10 18:13:47 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:13:48 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:16:54 INFO ZServer HTTP server started at Sat Dec 10 18:16:54 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:16:54 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:17:38 INFO ZServer HTTP server started at Sat Dec 10 18:17:38 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:17:39 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:18:18 INFO ZServer HTTP server started at Sat Dec 10 18:18:18 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:18:19 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:20:27 INFO ZServer HTTP server started at Sat Dec 10 18:20:27 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:20:28 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:27:06 INFO ZServer HTTP server started at Sat Dec 10 18:27:06 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:27:06 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:29:23 INFO ZServer HTTP server started at Sat Dec 10 18:29:23 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:29:24 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:29:56 INFO ZServer HTTP server started at Sat Dec 10 18:29:56 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:29:57 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:29:59 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T18:30:00 INFO Zope Ready to handle requests
+------
+2016-12-10T18:30:29 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T18:30:29 INFO Z2 Shutting down
+------
+2016-12-10T18:30:30 INFO ZServer HTTP server started at Sat Dec 10 18:30:30 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:30:31 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:31:21 INFO ZServer HTTP server started at Sat Dec 10 18:31:21 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:31:22 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:32:07 INFO ZServer HTTP server started at Sat Dec 10 18:32:07 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:32:08 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:32:10 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T18:32:11 INFO Zope Ready to handle requests
+------
+2016-12-10T18:32:31 INFO plone.app.theming.policy local cache invalidated on thread 139801252038400
+------
+2016-12-10T18:32:31 INFO plone.app.theming.policy initializing local cache on thread 139801252038400 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T18:36:54 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T18:36:54 INFO Z2 Shutting down
+------
+2016-12-10T18:36:56 INFO ZServer HTTP server started at Sat Dec 10 18:36:56 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:36:56 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:37:19 INFO ZServer HTTP server started at Sat Dec 10 18:37:19 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:37:19 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:37:21 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T18:37:23 INFO Zope Ready to handle requests
+------
+2016-12-10T18:37:28 INFO plone.app.theming.policy local cache invalidated on thread 140479753488128
+------
+2016-12-10T18:37:28 INFO plone.app.theming.policy initializing local cache on thread 140479753488128 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T18:38:22 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T18:38:22 INFO Z2 Shutting down
+------
+2016-12-10T18:38:24 INFO ZServer HTTP server started at Sat Dec 10 18:38:24 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:38:25 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:38:27 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T18:38:28 INFO Zope Ready to handle requests
+------
+2016-12-10T18:38:34 INFO plone.app.theming.policy local cache invalidated on thread 139998081017600
+------
+2016-12-10T18:38:34 INFO plone.app.theming.policy initializing local cache on thread 139998081017600 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T18:39:18 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T18:39:18 INFO Z2 Shutting down
+------
+2016-12-10T18:39:20 INFO ZServer HTTP server started at Sat Dec 10 18:39:20 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T18:39:20 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T18:39:22 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T18:39:24 INFO Zope Ready to handle requests
+------
+2016-12-10T18:39:27 INFO plone.app.theming.policy local cache invalidated on thread 140627939919616
+------
+2016-12-10T18:39:27 INFO plone.app.theming.policy initializing local cache on thread 140627939919616 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:03:33 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:03:33 INFO Z2 Shutting down
+------
+2016-12-10T19:03:35 INFO ZServer HTTP server started at Sat Dec 10 19:03:35 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:03:35 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:03:37 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:03:39 INFO Zope Ready to handle requests
+------
+2016-12-10T19:03:45 INFO plone.app.theming.policy local cache invalidated on thread 140455125939968
+------
+2016-12-10T19:03:45 INFO plone.app.theming.policy initializing local cache on thread 140455125939968 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:09:24 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:09:24 INFO Z2 Shutting down
+------
+2016-12-10T19:09:26 INFO ZServer HTTP server started at Sat Dec 10 19:09:26 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:09:27 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:09:29 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:09:30 INFO Zope Ready to handle requests
+------
+2016-12-10T19:09:36 INFO plone.app.theming.policy local cache invalidated on thread 139743558813440
+------
+2016-12-10T19:09:36 INFO plone.app.theming.policy initializing local cache on thread 139743558813440 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:11:55 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:11:55 INFO Z2 Shutting down
+------
+2016-12-10T19:11:56 INFO ZServer HTTP server started at Sat Dec 10 19:11:56 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:11:57 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:13:02 INFO ZServer HTTP server started at Sat Dec 10 19:13:02 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:13:03 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:13:39 INFO ZServer HTTP server started at Sat Dec 10 19:13:39 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:13:40 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:13:42 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:13:43 INFO Zope Ready to handle requests
+------
+2016-12-10T19:13:49 ERROR Zope.SiteErrorLog 1481393629.360.503847524082 http://localhost:8000/Plone/segona-proposta-1/@@edit
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module plone.z3cform.layout, line 66, in __call__
+  Module plone.z3cform.layout, line 50, in update
+  Module plone.dexterity.browser.edit, line 58, in update
+  Module plone.z3cform.fieldsets.extensible, line 59, in update
+  Module plone.z3cform.patch, line 30, in GroupForm_update
+  Module z3c.form.group, line 132, in update
+  Module z3c.form.form, line 136, in updateWidgets
+  Module z3c.form.field, line 277, in update
+  Module z3c.form.browser.checkbox, line 45, in update
+  Module z3c.form.browser.widget, line 171, in update
+  Module z3c.form.widget, line 233, in update
+  Module z3c.form.widget, line 227, in updateTerms
+  Module zope.component._api, line 107, in getMultiAdapter
+  Module zope.component._api, line 120, in queryMultiAdapter
+  Module zope.component.registry, line 238, in queryMultiAdapter
+  Module zope.interface.adapter, line 532, in queryMultiAdapter
+  Module z3c.form.term, line 238, in CollectionTerms
+AttributeError: 'NoneType' object has no attribute 'bind'
+------
+2016-12-10T19:13:49 INFO plone.app.theming.policy local cache invalidated on thread 140297480947456
+------
+2016-12-10T19:13:49 INFO plone.app.theming.policy initializing local cache on thread 140297480947456 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:14:08 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:14:08 INFO Z2 Shutting down
+------
+2016-12-10T19:14:09 INFO ZServer HTTP server started at Sat Dec 10 19:14:09 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:14:10 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:17:23 INFO ZServer HTTP server started at Sat Dec 10 19:17:23 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:17:24 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:21:30 INFO ZServer HTTP server started at Sat Dec 10 19:21:30 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:21:31 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:22:01 INFO ZServer HTTP server started at Sat Dec 10 19:22:01 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:22:02 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:22:59 INFO ZServer HTTP server started at Sat Dec 10 19:22:59 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:23:00 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:23:02 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:23:03 INFO Zope Ready to handle requests
+------
+2016-12-10T19:24:34 INFO plone.app.theming.policy local cache invalidated on thread 139634544359168
+------
+2016-12-10T19:24:34 INFO plone.app.theming.policy initializing local cache on thread 139634544359168 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:25:28 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:25:28 INFO Z2 Shutting down
+------
+2016-12-10T19:25:29 INFO ZServer HTTP server started at Sat Dec 10 19:25:29 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:25:30 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:25:32 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:25:33 INFO Zope Ready to handle requests
+------
+2016-12-10T19:25:35 INFO plone.app.theming.policy local cache invalidated on thread 139916093687552
+------
+2016-12-10T19:25:35 INFO plone.app.theming.policy initializing local cache on thread 139916093687552 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:27:33 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:27:33 INFO Z2 Shutting down
+------
+2016-12-10T19:27:35 INFO ZServer HTTP server started at Sat Dec 10 19:27:35 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:27:36 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:28:15 INFO ZServer HTTP server started at Sat Dec 10 19:28:15 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:28:15 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:28:31 INFO ZServer HTTP server started at Sat Dec 10 19:28:31 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:28:32 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:28:34 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:28:35 INFO Zope Ready to handle requests
+------
+2016-12-10T19:35:44 INFO plone.app.theming.policy local cache invalidated on thread 139760930457344
+------
+2016-12-10T19:35:44 INFO plone.app.theming.policy initializing local cache on thread 139760930457344 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:39:46 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:39:46 INFO Z2 Shutting down
+------
+2016-12-10T19:39:47 INFO ZServer HTTP server started at Sat Dec 10 19:39:47 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:39:48 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:39:50 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:39:51 INFO Zope Ready to handle requests
+------
+2016-12-10T19:40:05 INFO plone.app.theming.policy local cache invalidated on thread 139936198252288
+------
+2016-12-10T19:40:05 INFO plone.app.theming.policy initializing local cache on thread 139936198252288 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:42:09 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:42:09 INFO Z2 Shutting down
+------
+2016-12-10T19:42:11 INFO ZServer HTTP server started at Sat Dec 10 19:42:11 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:42:12 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:43:05 INFO ZServer HTTP server started at Sat Dec 10 19:43:05 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:43:06 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:43:08 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:43:09 INFO Zope Ready to handle requests
+------
+2016-12-10T19:43:13 INFO plone.app.theming.policy local cache invalidated on thread 140145686804224
+------
+2016-12-10T19:43:13 INFO plone.app.theming.policy initializing local cache on thread 140145686804224 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:45:17 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:45:17 INFO Z2 Shutting down
+------
+2016-12-10T19:45:19 INFO ZServer HTTP server started at Sat Dec 10 19:45:19 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:45:20 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:47:57 INFO ZServer HTTP server started at Sat Dec 10 19:47:57 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:47:58 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:48:40 INFO ZServer HTTP server started at Sat Dec 10 19:48:40 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:48:41 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:49:20 INFO ZServer HTTP server started at Sat Dec 10 19:49:20 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:49:21 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:49:56 INFO ZServer HTTP server started at Sat Dec 10 19:49:56 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:49:56 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:49:58 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:50:00 INFO Zope Ready to handle requests
+------
+2016-12-10T19:50:04 INFO plone.app.theming.policy local cache invalidated on thread 140422260070144
+------
+2016-12-10T19:50:04 INFO plone.app.theming.policy initializing local cache on thread 140422260070144 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:55:51 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:55:51 INFO Z2 Shutting down
+------
+2016-12-10T19:55:53 INFO ZServer HTTP server started at Sat Dec 10 19:55:53 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:55:54 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:55:56 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:55:57 INFO Zope Ready to handle requests
+------
+2016-12-10T19:56:01 INFO plone.app.theming.policy local cache invalidated on thread 140480790275840
+------
+2016-12-10T19:56:01 INFO plone.app.theming.policy initializing local cache on thread 140480790275840 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T19:56:57 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T19:56:57 INFO Z2 Shutting down
+------
+2016-12-10T19:56:58 INFO ZServer HTTP server started at Sat Dec 10 19:56:58 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T19:56:59 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T19:57:01 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T19:57:02 INFO Zope Ready to handle requests
+------
+2016-12-10T19:57:06 INFO plone.app.theming.policy local cache invalidated on thread 139725444998912
+------
+2016-12-10T19:57:06 INFO plone.app.theming.policy initializing local cache on thread 139725444998912 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T20:01:08 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T20:01:08 INFO Z2 Shutting down
+------
+2016-12-10T20:01:10 INFO ZServer HTTP server started at Sat Dec 10 20:01:10 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T20:01:10 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T20:27:58 INFO ZServer HTTP server started at Sat Dec 10 20:27:58 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T20:27:59 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T20:28:01 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T20:28:02 INFO Zope Ready to handle requests
+------
+2016-12-10T20:28:05 INFO plone.app.theming.policy local cache invalidated on thread 140656083191552
+------
+2016-12-10T20:28:05 INFO plone.app.theming.policy initializing local cache on thread 140656083191552 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T20:39:46 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T20:39:46 INFO Z2 Shutting down
+------
+2016-12-10T20:39:47 INFO ZServer HTTP server started at Sat Dec 10 20:39:47 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T20:39:48 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T20:39:50 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T20:39:51 INFO Zope Ready to handle requests
+------
+2016-12-10T20:41:19 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T20:41:19 INFO Z2 Shutting down
+------
+2016-12-10T20:41:21 INFO ZServer HTTP server started at Sat Dec 10 20:41:21 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T20:41:22 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T20:41:24 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T20:41:25 INFO Zope Ready to handle requests
+------
+2016-12-10T20:41:31 INFO plone.app.theming.policy local cache invalidated on thread 140474048882432
+------
+2016-12-10T20:41:31 INFO plone.app.theming.policy initializing local cache on thread 140474048882432 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T20:42:27 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T20:42:27 INFO Z2 Shutting down
+------
+2016-12-10T20:42:30 INFO ZServer HTTP server started at Sat Dec 10 20:42:30 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T20:42:30 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T20:42:32 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T20:42:34 INFO Zope Ready to handle requests
+------
+2016-12-10T20:42:36 ERROR Zope.SiteErrorLog 1481398956.110.201944544933 http://localhost:8000/Plone/++add++PropostaArtistica/@@z3cform_validate_field
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module plone.app.z3cform.inline_validation, line 27, in __call__
+  Module plone.dexterity.browser.add, line 130, in update
+  Module plone.z3cform.fieldsets.extensible, line 59, in update
+  Module plone.z3cform.patch, line 30, in GroupForm_update
+  Module z3c.form.group, line 132, in update
+  Module z3c.form.form, line 136, in updateWidgets
+  Module z3c.form.field, line 254, in update
+TypeError: __init__() takes exactly 2 arguments (3 given)
+------
+2016-12-10T20:42:36 ERROR Zope.SiteErrorLog 1481398956.210.7580334671 http://localhost:8000/Plone/++add++PropostaArtistica
+Traceback (innermost last):
+  Module ZPublisher.Publish, line 138, in publish
+  Module ZPublisher.mapply, line 77, in mapply
+  Module ZPublisher.Publish, line 48, in call_object
+  Module plone.z3cform.layout, line 66, in __call__
+  Module plone.z3cform.layout, line 50, in update
+  Module plone.dexterity.browser.add, line 130, in update
+  Module plone.z3cform.fieldsets.extensible, line 59, in update
+  Module plone.z3cform.patch, line 30, in GroupForm_update
+  Module z3c.form.group, line 132, in update
+  Module z3c.form.form, line 136, in updateWidgets
+  Module z3c.form.field, line 254, in update
+TypeError: __init__() takes exactly 2 arguments (3 given)
+------
+2016-12-10T20:42:36 INFO plone.app.theming.policy local cache invalidated on thread 139984233514752
+------
+2016-12-10T20:42:36 INFO plone.app.theming.policy initializing local cache on thread 139984233514752 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T20:43:10 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T20:43:10 INFO Z2 Shutting down
+------
+2016-12-10T20:43:11 INFO ZServer HTTP server started at Sat Dec 10 20:43:11 2016
+	Hostname: 0.0.0.0
+	Port: 8000
+------
+2016-12-10T20:43:12 INFO DocFinderTab Applied patch version 1.0.5.
+------
+2016-12-10T20:43:14 INFO Plone OpenID system packages not installed, OpenID support not available
+------
+2016-12-10T20:43:15 INFO Zope Ready to handle requests
+------
+2016-12-10T20:43:23 INFO plone.app.theming.policy local cache invalidated on thread 139631015368448
+------
+2016-12-10T20:43:23 INFO plone.app.theming.policy initializing local cache on thread 139631015368448 for http://localhost:8000/Plone::barceloneta
+------
+2016-12-10T20:43:34 INFO SignalHandler Caught signal SIGINT
+------
+2016-12-10T20:43:34 INFO Z2 Shutting down

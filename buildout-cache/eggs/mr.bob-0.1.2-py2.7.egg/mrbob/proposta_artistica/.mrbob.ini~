@@ -1,0 +1,21 @@
+[questions]
+espectacle.name.question = Nom de l\'espectacle: 
+espectacle.name.required = True
+
+espectacle.ambit.question = L\'espectacle s\'engloba en més d\'un àmbit?: 
+espectacle.name.required = True
+
+espectacle.estrenaabsoluta.question = Estrena absoulta durant la fira?
+espectacle.name.required = True
+
+espectacle.estrenaespanya.question = Estrena absoulta a Espanya?
+espectacle.name.required = True
+
+espectacle.estrena.question = Estrena absoulta durant a Catalunya?
+espectacle.name.required = True
+
+espectacle.estrena.question = Nombre de persones que s\'han de desplaçar?
+espectacle.name.required = True
+
+author.password.question = Enter password
+author.password.command_prompt = getpass:getpass

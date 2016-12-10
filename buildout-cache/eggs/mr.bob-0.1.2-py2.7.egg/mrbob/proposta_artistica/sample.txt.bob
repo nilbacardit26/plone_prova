@@ -1,0 +1,15 @@
+
+Nom de lespectacle {{{ espectacle.name }}}. 
+
+Ambit {{{ espectacle.ambit }}}.
+
+Estrena Absoluta: {{{espectacle.estrenaabsoluta}}} 
+ 
+Estrena Espanya: {{{espectacle.estrenaespanya}}}
+
+Estrena Catalunya: {{{espectacle.estrenacatalunya}}}
+
+Nombre de gent desplacada: {{{espectacle.desplacar}}}
+
+
+This is my password to everything:  {{{ author.password }}}

@@ -1,0 +1,4 @@
+graft src/proposta
+graft docs
+include *.rst
+global-exclude *.pyc

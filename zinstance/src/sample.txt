@@ -1,0 +1,15 @@
+
+Nom de lespectacle Ball dels micus. 
+
+Ambit Si.
+
+Estrena Absoluta: Si 
+ 
+Estrena Espanya: Si
+
+Estrena Catalunya: Si
+
+Nombre de gent desplacada: 5
+
+
+This is my password to everything:  nil26049242

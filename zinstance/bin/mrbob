@@ -1,0 +1,16 @@
+#!/home/nil/plone_prova/zinstance/bin/python2.7
+
+import sys
+sys.path[0:0] = [
+  '/home/nil/plone_prova/buildout-cache/eggs/mr.bob-0.1.2-py2.7.egg',
+  '/home/nil/plone_prova/buildout-cache/eggs/bobtemplates.plone-1.0.1-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/lib/python2.7/site-packages',
+  '/home/nil/plone_prova/buildout-cache/eggs/Jinja2-2.8-py2.7.egg',
+  '/home/nil/plone_prova/buildout-cache/eggs/six-1.10.0-py2.7.egg',
+  '/home/nil/plone_prova/buildout-cache/eggs/MarkupSafe-0.23-py2.7-linux-x86_64.egg',
+  ]
+
+import mrbob.cli
+
+if __name__ == '__main__':
+    sys.exit(mrbob.cli.main())

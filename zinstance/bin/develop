@@ -1,0 +1,12 @@
+#!/home/nil/plone_prova/zinstance/bin/python2.7
+
+import sys
+sys.path[0:0] = [
+  '/home/nil/plone_prova/buildout-cache/eggs/mr.developer-1.34-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/lib/python2.7/site-packages',
+  ]
+
+import mr.developer.develop
+
+if __name__ == '__main__':
+    sys.exit(mr.developer.develop.develop())
