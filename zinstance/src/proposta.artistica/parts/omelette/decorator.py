@@ -1,0 +1,1 @@
+/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/decorator-4.0.9-py2.7.egg/decorator.py

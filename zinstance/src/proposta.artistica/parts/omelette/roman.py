@@ -1,0 +1,1 @@
+/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/roman-1.4.0-py2.7.egg/roman.py

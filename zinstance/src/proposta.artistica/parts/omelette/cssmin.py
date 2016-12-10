@@ -1,0 +1,1 @@
+/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/cssmin-0.2.0-py2.7.egg/cssmin.py

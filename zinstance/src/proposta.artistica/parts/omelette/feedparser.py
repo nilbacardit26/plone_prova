@@ -1,0 +1,1 @@
+/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/feedparser-5.2.1-py2.7.egg/feedparser.py

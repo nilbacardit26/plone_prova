@@ -1,0 +1,20 @@
+#!/usr/bin/python
+
+import sys
+sys.path[0:0] = [
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/zest.releaser-6.7-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/twine-1.8.1-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/six-1.10.0-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/colorama-0.3.7-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/setuptools-18.1-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/requests_toolbelt-0.7.0-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/requests-2.9.1-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/pkginfo-1.4.1-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/clint-0.5.1-py2.7.egg',
+  '/home/nil/plone_prova/zinstance/src/proposta.artistica/eggs/args-0.1.0-py2.7.egg',
+  ]
+
+import zest.releaser.release
+
+if __name__ == '__main__':
+    sys.exit(zest.releaser.release.main())
